@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JHA.TweetStream.StatisticalServices.Interfaces\JHA.TweetStream.StatisticalServices.Interfaces.csproj" />
+    <ProjectReference Include="..\JHA.TweetStream.StatisticalServices.Models\JHA.TweetStream.StatisticalServices.Models.csproj" />
+  </ItemGroup>
+
+</Project>
